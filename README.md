@@ -16,7 +16,7 @@ To go to individual product page, select the check-box in the line of desired pr
 ![Products3](https://user-images.githubusercontent.com/58267437/130332294-c235287d-a1b4-4f28-ad4b-89c08185b199.png)
 
 
-Single product page, get id from props. Makes a GET request to API to get the product with the desired API.
+Single product page, get id from props. Makes a GET request to API to get the product with the desired "product ID".
 ![Single Product](https://user-images.githubusercontent.com/58267437/130332376-506a352f-91d4-4a3e-a01e-6d680fe15a27.png)
 
 
