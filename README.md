@@ -13,6 +13,9 @@ To go to individual product page, select the check-box in the line of desired pr
 ![Products3](https://user-images.githubusercontent.com/58267437/130332294-c235287d-a1b4-4f28-ad4b-89c08185b199.png)
 
 
+Single product page, get id from props. Makes a GET request to API to get the product with the desired API.
+![image](https://user-images.githubusercontent.com/58267437/130332318-fe712fed-cc3a-465d-b4f7-e17357a7de93.png)
 
 
+DATABASE USED: MONGODB ATLAS.
 
