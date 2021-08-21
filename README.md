@@ -3,6 +3,7 @@
 Main Page of the APP
 
 Enter link button sends a POST request to API and scrapes the desired website.
+
 IF selected product is sold out, scraper will not work!!
 ![Mainpage](https://user-images.githubusercontent.com/58267437/130331914-f077e56e-e523-4701-930a-cc5c076764c2.png)
 
@@ -16,7 +17,7 @@ To go to individual product page, select the check-box in the line of desired pr
 
 
 Single product page, get id from props. Makes a GET request to API to get the product with the desired API.
-![image](https://user-images.githubusercontent.com/58267437/130332318-fe712fed-cc3a-465d-b4f7-e17357a7de93.png)
+![Single Product](https://user-images.githubusercontent.com/58267437/130332376-506a352f-91d4-4a3e-a01e-6d680fe15a27.png)
 
 
 DATABASE USED: MONGODB ATLAS.
