@@ -12,7 +12,7 @@ CORS(app)
 api = Api(app)
 
 
-client = pymongo.MongoClient("mongodb+srv://MongoMavz:Mavzer69@cluster0.ldsqk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+client = pymongo.MongoClient("")
 db = client.test
 
 
